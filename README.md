@@ -2,6 +2,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k70suK3-k06a7ash1)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## 📊 Status
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k70suK3-k06a7ash1&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k70suK3-k06a7ash1&theme=github&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k70suK3-k06a7ash1&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k70suK3-k06a7ash1&theme=github)
+
 <!--
 **k70suK3-k06a7ash1/k70suK3-k06a7ash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
