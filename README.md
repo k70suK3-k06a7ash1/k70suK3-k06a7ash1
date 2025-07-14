@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k70suK3-k06a7ash1)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 📊 Status
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k70suK3-k06a7ash1&theme=github)
